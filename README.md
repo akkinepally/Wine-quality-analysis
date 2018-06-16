@@ -1,6 +1,8 @@
 # Wine-Quality-Analysis
 
-The wine dataset has 1600 rows and 12 features and I have decided to analyse which wine was best using dependent variables 'quality' base on the independent variables:'fixed acidity', 'volatile acidity', 'residual sugar', 'chlorides', 'free sulfur dioxide', 'total sulfur dioxide', 'density', 'sulphates','alcohol','pH','Citric acid'.
+The wine dataset has 1600 rows and 12 features and I have decided to analyse which wine was best using dependent variables 
+'quality' based on the independent variables:'fixed acidity', 'volatile acidity', 'residual sugar', 'chlorides', 'free sulfur dioxide',
+'total sulfur dioxide', 'density', 'sulphates','alcohol','pH','Citric acid'.
 step 1)I have imported all the required libraries
 step 2)Read the data using data_csv
 step 3)Checked for Null values
