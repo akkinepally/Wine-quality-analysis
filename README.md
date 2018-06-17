@@ -13,4 +13,4 @@ step 7)Scaled the data
 step 8)Built an svm model and got an accuracy of 91
 step 9)Used Gridsearch inorder to get an optimal values for the hyper parameters and know if the data is linear or non-linear
 step 10)As the data was non linear applied Naive Bayes, Decision tree, Random Forest and KNN
-step 11) Random forest had the highest accuracy among all the models.
+step 11) Random forest had the highest accuracy and f1 score among all the models.
